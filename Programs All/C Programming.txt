@@ -1,0 +1,45 @@
+1 : Just Simple Program
+2 : converting Two Four Digit Number To Two Two Digit Number
+3 : Simple Intreaction Of C
+4 : Population And All SI Intrest Printing
+5 : Area Of Three Sides Of Triangle
+6 : Distance Between Two Points
+7 : Division By 5
+8 : All Operation Of Maths On Two Number
+9 : Difference between Two Numbers
+10 : Logical Operators
+11 : Checking Value Of n++ and n--
+12 : Checking Value Of n++ and n--
+13 : Largest Of Three Number
+14 : All Logical Operation on two number
+15 : Solving A Simple Evaluation
+16 : Area And Circumference Of Circle
+17 : ASCII Value
+18 : Uppercase To Lowercase 
+19 : Printing Last DIgit Or Digit At Ones Place
+20 : Swapping Values Of Num1 And Num2 With Third Number
+21 : Swapping Values Of Num1 And Num2 Without Third Number
+22 : Farenheit to Celcius
+23 :  Simple Marketing Program
+24 : Floating Numbers Integer Varient
+25 : Integer Value Floating Varient
+26 : Size Of All Type Of Integers
+27 : Program For Marks And Percetage
+28 : Amount In Piggy Bank
+29 : Checking Year is Leap Or Not
+30 : Comparision Between Two Number
+31 : Income And Tax Realated Program
+32 : All Cases In C
+33 : Checking All The Vowel
+34 : All The Days
+35 :  Checking Even Or Odd In First 10 Integer
+36 : Even or Odd Of All Integers
+37 : Sum Of First 10 Integers
+38 : Sum OF Integers Till n Range
+39 : Sum Of Integer From Any Number TO Any Number
+40 : Largest Og Five Number
+41 : All Value From 1 To 10
+42 : Count Number Of Postive Negative And Zeroes
+43 : Sum And Average Of All number Entered By User
+44 : Entering Number And Priting Its Square
+45 : 
